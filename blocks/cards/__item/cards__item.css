@@ -1,0 +1,6 @@
+.cards__item {
+  list-style-type: none;
+  margin: 0;
+  width: 240px;
+  padding: 60px 0 0 0;
+}
