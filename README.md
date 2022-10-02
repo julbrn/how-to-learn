@@ -21,6 +21,10 @@
 Файловая структура организована в соответствии с БЭМ-методологией.
 В проекте были использованы iframe, keyframes для анимации, псевдоклассы, flex и др.
 
+### **Как посмотреть**
+---
+[Ссылка на проект на **GitHub Pages**](https://julbrn.github.io/how-to-learn/) <br>
+[Бриф от Яндекс Практикума](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
 
 
 
